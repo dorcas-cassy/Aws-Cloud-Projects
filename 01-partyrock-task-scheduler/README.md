@@ -45,4 +45,4 @@ PartyRock apps aren't meant for production use. If I were to productionize this,
 - Persistent storage (e.g. DynamoDB) to save user schedules across sessions
 
 ## Live App
-[Link to PartyRock app] *(add your app's share link here)*
+[https://partyrock.aws/u/cassylilac/HEOiWphWe/Daily-Task-Scheduler] 
